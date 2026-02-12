@@ -63,7 +63,6 @@ Sensors → ESP32 → Control Logic → Actuators
 
 
 ## System Demo
-
 ### Physical Prototype
 
 ![Smart Farm Model 1](images/smartfarm1.jpg)
