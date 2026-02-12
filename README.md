@@ -12,12 +12,14 @@ Sensor data is transmitted via MQTT to a HiveMQ broker and visualized using Node
 
 
 ##  System Architecture
-
-Sensors → ESP32 → Control Logic → Actuators  
-                    ↓  
-                MQTT (HiveMQ)  
-                    ↓  
-               Node-RED Dashboard  
+```mermaid
+flowchart LR
+    Sensors --> ESP32
+    ESP32 --> ControlLogic
+    ControlLogic --> Actuators
+    ESP32 --> MQTT
+    MQTT --> NodeRED
+```
 
 
 ##  Hardware Components
