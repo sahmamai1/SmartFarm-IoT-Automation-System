@@ -62,7 +62,7 @@ Sensors → ESP32 → Control Logic → Actuators
 }
 
 
-### Physical Prototype Overview
+## Physical Prototype Overview
 
 ![Model Overview](images/smartfarm1.jpg)
 
