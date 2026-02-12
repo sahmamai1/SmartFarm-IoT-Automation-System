@@ -60,3 +60,15 @@ Sensors → ESP32 → Control Logic → Actuators
   "door": "OPEN",
   "water_level": "LOW"
 }
+
+
+### Physical Prototype Overview
+
+![Model Overview](images/smartfarm1.jpg)
+
+Greenhouse structure with integrated irrigation and shading system.
+
+![Controller & Wiring](images/smartfarm2.JPG)
+
+ESP32 controller with RS485 Modbus sensor and relay control system.
+
