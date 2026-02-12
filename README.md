@@ -62,13 +62,13 @@ Sensors → ESP32 → Control Logic → Actuators
 }
 
 
-## Physical Prototype Overview
+## System Demo
 
-![Model Overview](images/smartfarm1.jpg)
+### Physical Prototype
 
-Greenhouse structure with integrated irrigation and shading system.
+![Smart Farm Model 1](images/smartfarm1.jpg)
 
-![Controller & Wiring](images/smartfarm2.jpg)
+![Smart Farm Model 2](images/smartfarm2.jpg)
 
-ESP32 controller with RS485 Modbus sensor and relay control system.
+The physical prototype built using ESP32 with integrated sensors, actuators, and IoT communication system.
 
