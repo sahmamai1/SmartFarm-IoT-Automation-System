@@ -60,7 +60,7 @@ Sensors → ESP32 → Control Logic → Actuators
   "door": "OPEN",
   "water_level": "LOW"
 }
-
+```
 
 ## System Demo
 ### Physical Prototype
