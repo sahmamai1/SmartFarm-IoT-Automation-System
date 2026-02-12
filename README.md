@@ -68,7 +68,7 @@ Sensors → ESP32 → Control Logic → Actuators
 
 Greenhouse structure with integrated irrigation and shading system.
 
-![Controller & Wiring](images/smartfarm2.JPG)
+![Controller & Wiring](images/smartfarm2.jpg)
 
 ESP32 controller with RS485 Modbus sensor and relay control system.
 
